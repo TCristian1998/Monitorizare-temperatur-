@@ -1,4 +1,4 @@
-# Monitorizare-temperatur-
+# Monitorizare-temperatura-
 
 Pentru impleentarea acestei teme a fost nevoie de implementarea a 4 module:
 
